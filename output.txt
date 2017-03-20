@@ -1,0 +1,39 @@
+
+Lou exit. His/her exit floor is--->3 His/her total number of temporary exits----> 0
+Abe exit. His/her exit floor is--->3 His/her total number of temporary exits----> 0
+Elevator is full.
+Moe can't get into elevator so he/she takes stairs. His/Her destination is floor: 5
+Ina exit. His/her exit floor is--->4 His/her total number of temporary exits----> 0
+Al exit. His/her exit floor is--->4 His/her total number of temporary exits----> 1
+Yul exit. His/her exit floor is--->4 His/her total number of temporary exits----> 1
+Bif exit. His/her exit floor is--->5 His/her total number of temporary exits----> 1
+Lew exit. His/her exit floor is--->5 His/her total number of temporary exits----> 2
+Jan exit. His/her exit floor is--->1 His/her total number of temporary exits----> 0
+Mia exit. His/her exit floor is--->3 His/her total number of temporary exits----> 0
+Lisa exit. His/her exit floor is--->4 His/her total number of temporary exits----> 1
+Pat exit. His/her exit floor is--->5 His/her total number of temporary exits----> 0
+Cal exit. His/her exit floor is--->5 His/her total number of temporary exits----> 2
+Tess exit. His/her exit floor is--->2 His/her total number of temporary exits----> 1
+Don exit. His/her exit floor is--->1 His/her total number of temporary exits----> 0
+Nora exit. His/her exit floor is--->1 His/her total number of temporary exits----> 1
+Sam exit. His/her exit floor is--->5 His/her total number of temporary exits----> 0
+Liv exit. His/her exit floor is--->4 His/her total number of temporary exits----> 0
+Elevator is empty.
+Elevator is empty.
+Elevator is empty.
+Nina exit. His/her exit floor is--->3 His/her total number of temporary exits----> 0
+Elevator is empty.
+Elevator is empty.
+Mary exit. His/her exit floor is--->2 His/her total number of temporary exits----> 0
+Elevator is empty.
+Ed exit. His/her exit floor is--->2 His/her total number of temporary exits----> 0
+Tad exit. His/her exit floor is--->3 His/her total number of temporary exits----> 0
+Ali exit. His/her exit floor is--->4 His/her total number of temporary exits----> 0
+Sue exit. His/her exit floor is--->5 His/her total number of temporary exits----> 0
+
+
+
+Total number of passenger who took elevator: 44
+Total number of passenger who don't take elevator: 5
+Number of time elevator become empty: 7
+Number of time elevator become full: 4
